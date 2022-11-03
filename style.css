@@ -1,0 +1,27 @@
+body{
+    background-image: url(./images/bangladesh.gif);
+    background-size: cover;
+    margin: 0;
+}
+.container{
+    width: 1020px;
+    margin: 0 auto;
+}
+.topbar{
+    background: #9e5bba;
+    width: 100%;
+    float: left;
+    padding: 5px 10px;
+    color: white;
+}
+.topbar .topbar-left{
+    float: left;
+}
+.topbar .topbar-right{
+    float: right;
+    font-size: 15px;
+}
+.topbar-right a{
+    color: white;
+    font-size: 15px;
+}
